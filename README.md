@@ -1,2 +1,2 @@
 # aws-msl
-Repository containing resource to prepare for AWS Certified Machine Learning – Specialty (MLS) exam
+Repository containing resources to prepare for AWS Certified Machine Learning – Specialty (MLS) exam
